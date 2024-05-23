@@ -1,7 +1,6 @@
 # self-supervised-model-for-construction-machines
 describes the proposed model and results of a paper
 
-%![general](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/new%20approach.png)
 
 ![general2](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/smart.jpg)
 
