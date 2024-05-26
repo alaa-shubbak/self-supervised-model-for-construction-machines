@@ -1,5 +1,5 @@
 
-### under the motto of Machine Learning for better life for the humanity. 
+### with the tagline "Machine learning for a better human life". 
 
 
 # self-supervised-model-for-construction-machines
