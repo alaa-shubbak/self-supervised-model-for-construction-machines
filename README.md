@@ -1,3 +1,7 @@
+
+### Machine Learning for better life for the humanity. 
+
+
 # self-supervised-model-for-construction-machines
 describes the proposed model and results of a paper
 
