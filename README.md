@@ -12,7 +12,7 @@ The proposed model and deep neural network architecture:
 
 
 Samples of Results: 
-![results1]([https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/results
-/samples_results_self_super_pose.png](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/results/samples_results_self_super_pose.png))
+
+![results1](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/results/samples_results_self_super_pose.png)
 
 
