@@ -3,14 +3,16 @@
 
 
 # self-supervised-model-for-construction-machines
-The proposed model and deep neural network architecture: 
+The definition of keypoints within literature and this work: 
+![Keypoint_def](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/keypoint_definitions.png)
 
+The proposed model and deep neural network architecture: 
 
 ![general2](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/smart.jpg)
 
 <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/issac%20all_results.png" width="350"> <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/matlab_results.png" width="350">
 
-#Results: 
+# Results: 
 
 evaluation metrics: 
 
