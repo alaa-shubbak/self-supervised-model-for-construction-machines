@@ -25,11 +25,11 @@ Samples of Results:
 ## Citation: 
 
     @inproceedings{alshubbak2023self,
-  title={A Self-supervised Pose Estimation Approach for Construction Machines},
-  author={Alshubbak, Ala’a and G{\"o}rges, Daniel},
-  booktitle={International Symposium on Visual Computing},
-  pages={397--408},
-  year={2023},
-  organization={Springer}
-}
+    title={A Self-supervised Pose Estimation Approach for Construction Machines},
+    author={Alshubbak, Ala’a and G{\"o}rges, Daniel},
+    booktitle={International Symposium on Visual Computing},
+    pages={397--408},
+    year={2023},
+    organization={Springer}
+    }
 
