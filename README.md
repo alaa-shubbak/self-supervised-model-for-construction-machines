@@ -10,6 +10,11 @@ The proposed model and deep neural network architecture:
 
 <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/issac%20all_results.png" width="350"> <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/matlab_results.png" width="350">
 
+#Results: 
+
+evaluation metrics: 
+
+![results](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/table_results_self_supervised.png)
 
 Samples of Results: 
 
