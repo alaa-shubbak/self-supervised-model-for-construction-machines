@@ -22,4 +22,6 @@ Samples of Results:
 
 ![results1](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/results/samples_results_self_super_pose.png)
 
+# Citation: 
 
+Alshubbak, A.A. and Görges, D., 2023, October. A Self-supervised Pose Estimation Approach for Construction Machines. In International Symposium on Visual Computing (pp. 397-408). Cham: Springer Nature Switzerland.
