@@ -6,11 +6,17 @@
 
 ## Motivation: 
 
+The contributions of this work are:
+* Design a first-of-its-own generalizing skeleton-generating model for complex kinematic systems using synthetic and real datasets and leveraging deep neural networks and machine learning for pose estimation purposes.
+* Automatically generate a synthetic dataset with annotation using simulators for pose estimation tasks. This data represents mainly one object class of excavator.
+* Design and implement a self-supervised deep neural model based on the SimCLR model to generate a skeleton for a heavy construction machine ‘excavator’ using a smaller amount of annotated dataset.
+* Minimize the domain shift between the simulated situation and the real situation using a small dataset from a real environment, which improves the model’s performance on real-world data.
+
 ## keypoints definition:
 The definition of keypoints within literature and this work: 
 ![Keypoint_def](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/keypoint_definitions.png)
 
-##proposed Deep neural network model:
+## proposed Deep neural network model:
 The proposed model and deep neural network architecture: 
 
 ![general2](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/smart.jpg)
@@ -19,7 +25,7 @@ The proposed model and deep neural network architecture:
 
 ## Results: 
 
-evaluation metrics: 
+Evaluation : 
 
 ![results](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/table_results_self_supervised.png)
 
