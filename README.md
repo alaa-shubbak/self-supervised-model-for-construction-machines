@@ -41,6 +41,9 @@ Samples of Results:
 
 ![results1](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/results/samples_results_self_super_pose.png)
 
+## References: 
+[1] Xiao, B. and Kang, S.C., 2021. Development of an image data set of construction machines for deep learning object detection. Journal of Computing in Civil Engineering, 35(2), p.05020005.
+
 ## Citation: 
 
     @inproceedings{alshubbak2023self,
