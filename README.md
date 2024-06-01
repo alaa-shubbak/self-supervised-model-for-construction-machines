@@ -9,8 +9,8 @@
 The contributions of this work are:
 * Design a first-of-its-own generalizing skeleton-generating model for complex kinematic systems using synthetic and real datasets and leveraging deep neural networks and machine learning for pose estimation purposes.
 * Automatically generate a synthetic dataset with annotation using simulators for pose estimation tasks. This data represents mainly one object class of excavator.
-* Design and implement a self-supervised deep neural model based on the SimCLR model to generate a skeleton for a heavy construction machine ‘excavator’ using a smaller amount of annotated dataset.
-* Minimize the domain shift between the simulated situation and the real situation using a small dataset from a real environment, which improves the model’s performance on real-world data.
+* Design and implement a state-of-the-art self-supervised deep neural network model based on the SimCLR model to generate a skeleton for a heavy construction machine ‘excavator’ using a smaller amount of annotated dataset.
+* Minimize the domain shift between the simulated and real situations using a small dataset from a real environment, which improves the model’s performance on real-world data.
 
 ## keypoints definition:
 The definition of keypoints within literature and this work: 
