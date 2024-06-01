@@ -43,6 +43,7 @@ Samples of Results:
 
 ## References: 
 [1] Xiao, B. and Kang, S.C., 2021. Development of an image data set of construction machines for deep learning object detection. Journal of Computing in Civil Engineering, 35(2), p.05020005.
+
 [2] Chen, T., Kornblith, S., Norouzi, M. and Hinton, G., 2020, November. A simple framework for contrastive learning of visual representations. In International conference on machine learning (pp. 1597-1607). PMLR.
 
 ## Citation: 
