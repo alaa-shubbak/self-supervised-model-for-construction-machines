@@ -16,8 +16,12 @@ The contributions of this work are:
 The definition of keypoints within literature and this work: 
 ![Keypoint_def](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/keypoint_definitions.png)
 
-dataset from simulation: 
+dataset from the simulations: 
+
 <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/issac%20all_results.png" width="350"> <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/matlab_results.png" width="350">
+
+samples from real ACID dataset[1]
+
 
 ## Proposed Deep neural network model:
 The proposed model and deep neural network architecture: 
