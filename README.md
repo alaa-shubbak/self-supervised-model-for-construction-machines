@@ -12,16 +12,18 @@ The contributions of this work are:
 * Design and implement a state-of-the-art self-supervised deep neural network model based on the SimCLR model to generate a skeleton for a heavy construction machine ‘excavator’ using a smaller amount of annotated dataset.
 * Minimize the domain shift between the simulated and real situations using a small dataset from a real environment, which improves the model’s performance on real-world data.
 
-## keypoints definition:
+## Dataset and keypoints definition:
 The definition of keypoints within literature and this work: 
 ![Keypoint_def](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/keypoint_definitions.png)
 
-## proposed Deep neural network model:
+dataset from simulation: 
+<img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/issac%20all_results.png" width="350"> <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/matlab_results.png" width="350">
+
+## Proposed Deep neural network model:
 The proposed model and deep neural network architecture: 
 
 ![general2](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/smart.jpg)
 
-<img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/issac%20all_results.png" width="350"> <img src="https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/matlab_results.png" width="350">
 
 ## Results: 
 
