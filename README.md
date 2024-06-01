@@ -28,13 +28,13 @@ samples from real ACID dataset[1]:
 ## Proposed Deep neural network model:
 The proposed model and deep neural network architecture based on a contrastive self-supervised learning paradigm:
 
-the model consists of three stages: 
+This model consists of three stages: 
 
-stage 1: a pre-train model based on SimCLR[2] structure. 
+Stage 1: a pre-train model based on SimCLR[2] structure. 
 
-stage 2: downstream task on a synthetic dataset.
+Stage 2: downstream task on a synthetic dataset.
 
-stage 3: downstream task on a small amount of real annotated dataset. 
+Stage 3: downstream task on a small amount of real annotated dataset. 
 
 ![general2](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/smart.jpg)
 
