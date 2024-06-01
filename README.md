@@ -3,9 +3,14 @@
 
 
 # self-supervised-model-for-construction-machines
+
+## Motivation: 
+
+## keypoints definition:
 The definition of keypoints within literature and this work: 
 ![Keypoint_def](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/keypoint_definitions.png)
 
+##proposed Deep neural network model:
 The proposed model and deep neural network architecture: 
 
 ![general2](https://github.com/alaa-shubbak/self-supervised-model-for-construction-machines/blob/main/images/smart.jpg)
